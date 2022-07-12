@@ -56,7 +56,7 @@ git checkout typescript
 yarn 
 ```
 
-# Useage
+# Usage
 
 Deploy:
 
